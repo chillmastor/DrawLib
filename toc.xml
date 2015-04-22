@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="Vim" APIVersion="9" Name="DrawLib" Description="Library for drawing things on screen.">
+    <Script Name="DrawLib.lua"/>
+    <Form Name="DrawLib.xml"/>
+</Addon>
